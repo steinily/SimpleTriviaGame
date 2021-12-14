@@ -60,7 +60,7 @@ def mainMenu():
     while game == True:
         round = input("How many round do you wanna play?\n ")
 
-        print(f"Okay , {player} ! Let's play a game whit {round}'s!\n")
+        print(f"Okay , {player} ! Let's play a game whit {round}'s round!\n")
 
         points = 0
 
